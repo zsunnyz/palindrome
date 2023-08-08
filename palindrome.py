@@ -20,3 +20,4 @@ def check_palindrome(input_str: str) -> bool:
     
     :Complexity: O(n) where n is the length of the input string
     """
+    return NotImplementedError
